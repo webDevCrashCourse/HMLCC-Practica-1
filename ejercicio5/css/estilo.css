@@ -1,0 +1,24 @@
+html {
+  background-color: #baccba;
+  font-size: 20px;
+}
+
+h1{
+	color: #FF5722;
+	text-decoration: underline;
+}
+
+p{
+	max-width: 500px;
+	color: #0b3c63;
+}
+
+ul {
+  background: #00ff89;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
